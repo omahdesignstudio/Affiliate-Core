@@ -1,0 +1,24 @@
+# Umum
+*.log
+*.tmp
+*.bak
+
+# Editor
+.vscode/
+.idea/
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# PHP Composer / Node
+vendor/
+node_modules/
+
+# Build
+dist/
+build/
+coverage/
+
+# Config
+.env
